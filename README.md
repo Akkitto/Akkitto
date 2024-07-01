@@ -50,6 +50,7 @@ I'm always open to meeting new people and discussing a wide range of topics.
   <p><strong>DevOps Tools</strong></p>
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/> 
   <img src="https://img.shields.io/badge/k3s-FFC61C.svg?style=flat&logo=k3s&logoColor=white" alt="k3s"/> 
+  <img src="https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher&logoColor=white" alt="Rancher"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/> 
   <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=flat&logo=helm&logoColor=white" alt="Helm"/> 
   <img src="https://img.shields.io/badge/Cilium-F8C517.svg?style=flat&logo=cilium&logoColor=purple" alt="Cilium"/> 
