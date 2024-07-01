@@ -73,6 +73,10 @@ I'm always open to meeting new people and discussing a wide range of topics.
   <img src="https://img.shields.io/badge/Gitea-609926.svg?style=flat&logo=gitea&logoColor=white" alt="Gitea"/>
   <img src="https://img.shields.io/badge/Forgejo-FB923C.svg?style=flat&logo=forgejo&logoColor=white" alt="Forgejo"/>
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white" alt="NixOS"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" alt="Debian"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
   <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/-ChatGPT-00A67E?style=flat&logo=OpenAI&logoColor=white" alt="ChatGPT"/>
