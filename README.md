@@ -38,12 +38,12 @@ I'm always open to meeting new people and discussing a wide range of topics.
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/CouchDB-EB0505?style=flat&logo=apache-couchdb&logoColor=white" alt="CouchDB"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/> 
-  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=graphql&logoColor=white" alt="GraphQL"/> 
   <img src="https://img.shields.io/badge/REST-FF6C37?style=flat&logo=nodedotjs&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=graphql&logoColor=white" alt="GraphQL"/> 
 
   <p><strong>Dev Tools</strong></p>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-C838BE.svg?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/> 
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/> 
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-C838BE.svg?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/> 
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=android-studio&logoColor=white" alt="Android Studio"/> 
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" alt="Insomnia"/>
   <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white" alt="DBeaver"/>
@@ -77,6 +77,7 @@ I'm always open to meeting new people and discussing a wide range of topics.
   <img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
   <img src="https://img.shields.io/badge/Gitea-609926.svg?style=flat&logo=gitea&logoColor=white" alt="Gitea"/>
   <img src="https://img.shields.io/badge/Forgejo-FB923C.svg?style=flat&logo=forgejo&logoColor=white" alt="Forgejo"/>
+  <img src="https://img.shields.io/badge/Codeberg-2185D0.svg?style=flat&logo=codeberg&logoColor=white" alt="Codeberg"/>
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white" alt="NixOS"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
@@ -86,13 +87,18 @@ I'm always open to meeting new people and discussing a wide range of topics.
   <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/-ChatGPT-00A67E?style=flat&logo=OpenAI&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?style=flat&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
+  <img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=flat&logo=reddit&logoColor=white" alt="Reddit"/>
 
   <p><strong>Organisation Tools</strong></p>
   <img src="https://img.shields.io/badge/YouTrack-FB4074?style=flat&logo=jetbrains&logoColor=white" alt="YouTrack"/>
   <img src="https://img.shields.io/badge/Office%20365-D83B01?style=flat&logo=onlyoffice&logoColor=white" alt="Office 365"/>
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white" alt="Zoom"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"/>
+  <img src="https://img.shields.io/badge/Discourse-0AEEF?style=flat&logo=discourse&logoColor=white" alt="Discourse"/>
+  <img src="https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white" alt="Matrix"/>
   <img src="https://img.shields.io/badge/Mattermost-0072C6?style=flat&logo=mattermost&logoColor=white" alt="Mattermost"/>
+  <img src="https://img.shields.io/badge/Rocket.Chat-F5455C?style=flat&logo=rocketdotchat&logoColor=white" alt="Rocket.Chat"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence"/>
 
   <p><strong>Passions</strong></p>
