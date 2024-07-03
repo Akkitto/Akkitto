@@ -45,6 +45,7 @@ I'm always open to meeting new people and discussing a wide range of topics.
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-C838BE.svg?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/> 
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/> 
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=android-studio&logoColor=white" alt="Android Studio"/> 
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" alt="Insomnia"/>
   <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white" alt="DBeaver"/>
 
   <p><strong>DevOps Tools</strong></p>
@@ -90,6 +91,8 @@ I'm always open to meeting new people and discussing a wide range of topics.
   <img src="https://img.shields.io/badge/YouTrack-FB4074?style=flat&logo=jetbrains&logoColor=white" alt="YouTrack"/>
   <img src="https://img.shields.io/badge/Office%20365-D83B01?style=flat&logo=onlyoffice&logoColor=white" alt="Office 365"/>
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white" alt="Zoom"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"/>
+  <img src="https://img.shields.io/badge/Mattermost-0072C6?style=flat&logo=mattermost&logoColor=white" alt="Mattermost"/>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence"/>
 
   <p><strong>Passions</strong></p>
