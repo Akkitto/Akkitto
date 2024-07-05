@@ -102,7 +102,8 @@ I'm always open to meeting new people and discussing a wide range of topics.
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence"/>
 
   <p><strong>Passions</strong></p>
-  <img src="https://img.shields.io/badge/-Best%20Practices-%2300C853?style=flat&logo=bestbuy&logoColor=white" alt="Best Practices"/> 
+  <img src="https://img.shields.io/badge/-Best%20Practices-%2300C853?style=flat&logo=bestbuy&logoColor=white" alt="Best Practices"/>
+  <img src="https://img.shields.io/badge/Clean%20Code-FAFAFA?style=flat&logo=clean-code&logoColor=white" alt="Clean Code"/>
   <img src="https://img.shields.io/badge/-Automation-%230A74DA?style=flat&logo=robot-framework&logoColor=white" alt="Automation"/> 
   <img src="https://img.shields.io/badge/-Infrastructure%20as%20Code-%23FF5733?style=flat&logo=terraform&logoColor=white" alt="Infrastructure as Code"/> 
   <img src="https://img.shields.io/badge/-Containerization-%237CB342?style=flat&logo=linux-containers&logoColor=white" alt="Containerization"/> 
