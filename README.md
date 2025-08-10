@@ -355,7 +355,7 @@ I'm always open to meeting new people and discussing a wide range of topics.
 </div>
 
 <div align="center">
-  <h2>🏆 IT Certifications</h2>
+  <h2>🏆 Certifications</h2>
 </div>
 
 <div align="center">
@@ -382,20 +382,30 @@ I'm always open to meeting new people and discussing a wide range of topics.
   src="https://img.shields.io/badge/Steam-000000.svg?style=flat&logo=steam&logoColor=white"
   alt="Steam"
 />
-<!-- Steam Deck -->
-<img
-  src="https://img.shields.io/badge/Steam%20Deck-1A1A1A.svg?style=flat&logo=steamdeck&logoColor=white"
-  alt="Steam Deck"
-/>
 <!-- GOG -->
 <img
   src="https://img.shields.io/badge/GOG-86328A.svg?style=flat&logo=gogdotcom&logoColor=white"
   alt="GOG"
 />
+<!-- Steam Deck -->
+<img
+  src="https://img.shields.io/badge/Steam%20Deck-1A1A1A.svg?style=flat&logo=steamdeck&logoColor=white"
+  alt="Steam Deck"
+/>
 <!-- PlayStation Portable -->
 <img
-  src="https://img.shields.io/badge/Playstation%20Portable-003791.svg?style=flat&logo=playstationportable&logoColor=white"
+  src="https://img.shields.io/badge/PlayStation%20Portable-000000.svg?style=flat&logo=playstationportable&logoColor=white"
   alt="PlayStation Portable"
+/>
+<!-- PlayStation Vita -->
+<img
+  src="https://img.shields.io/badge/PlayStation%20Vita-000000.svg?style=flat&logo=playstationvita&logoColor=white"
+  alt="PlayStation Vita"
+/>
+<!-- Android Root -->
+<img
+  src="https://img.shields.io/badge/Android_Root-3DDC84.svg?style=flat&logo=android&logoColor=white"
+  alt="Android Root"
 />
 <!-- Calligraphy -->
 <img
