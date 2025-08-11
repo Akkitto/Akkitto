@@ -422,10 +422,15 @@ I'm always open to meeting new people and discussing a wide range of topics.
   src="https://img.shields.io/badge/Blockchain-00AEE6.svg?style=flat&logo=blockchaindotcom&logoColor=white"
   alt="Blockchain"
 />
-<!-- Bicycling (inline SVG wheel/bike icon, fully percent-encoded) -->
+<!-- Bicycling -->
 <img
   src="https://img.shields.io/badge/Bicycling-2E7D32.svg?style=flat&logo=nextbike"
   alt="Bicycling"
+/>
+<!-- TV Series -->
+<img
+  src="https://img.shields.io/badge/TV%20Series-F8CA12.svg?style=flat&logo=tvtime&logoColor=000000"
+  alt="TV Series"
 />
 </div>
 
