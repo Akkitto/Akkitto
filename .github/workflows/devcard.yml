@@ -1,0 +1,22 @@
+name: devcard
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "33 3 * * *"
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@3.2.1
+        with:
+          user_id: ${{ secrets.USER_ID }}
+          commit_branch: master
+          commit_message: "Auto: Update DevCard"
+          commit_filename: "assets/devcard.png"
+          type: wide

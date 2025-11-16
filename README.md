@@ -6,6 +6,12 @@
   <img src="https://github.com/Akkitto/Akkitto/assets/174259878/6e8d9716-ed04-45f6-8896-5cddb58e8789" alt="GitHub Profile Banner"/>
 </div>
 
+</br>
+
+<div align="center">
+<a href="https://app.daily.dev/akkitto"><img src="assets/devcard.png" width="356" alt="Daniel's Dev Card"/></a>
+</div>
+
 <div align="center">
   <h2>🚀 About Me</h2>
 </div>
