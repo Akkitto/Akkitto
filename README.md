@@ -9,7 +9,7 @@
 </br>
 
 <div align="center">
-<a href="https://app.daily.dev/akkitto"><img src="assets/devcard.png" width="356" alt="Daniel's Dev Card"/></a>
+<a href="https://app.daily.dev/akkitto"><img src="assets/devcard.png" width="652" alt="Daniel's Dev Card"/></a>
 </div>
 
 <div align="center">
